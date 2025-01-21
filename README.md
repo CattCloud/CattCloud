@@ -1,7 +1,5 @@
-<h1 align="center">
-  Wolaaa, bienvenido 
-  me llamo Erick 🖐
-</h1>
+#Hi , I am **Erick** 🖐
+
 
 ![catcloud](https://github.com/user-attachments/assets/67ac2f9f-43ce-4a26-be08-62599e5e7826)
 
@@ -9,22 +7,22 @@
 ## 🌟 Sobre mí
 - 🎓 Estudiante de **Ingeniería de Sistemas**
 - 🎥 Mi película favorita es **Wall-E** (un robot tiene más suerte en el amor que yo 🤖💔)
-- 🎶 Me encantan las **rolas clásicas y el rock en inglés**
+- 🎶 Me encantan las **rolas clásicas , lofi y el rock en inglés**
 - 💻 Actualmente aprendiendo **Desarrollo Web**
+- 🦜 Tengo un loro llamado Antonia o Toni *(nota: no se si es hembra o macho)*
 - ✝️ Soy un seguidor de Cristo *(Lucas 9:23)*
 
+## ⚡ Mis aspiraciones como desarrollador Web
+- Me imagino desarrollar paginas web creativos y geniales en diseño 
+- Usar mi conocimientos para ayudar a los animales, se me ocurre una pagina web para buscar mascotas o para apoyar animales
 
-<!--
-**CattCloud/CattCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lista de malos habitos por cambiar
+| Mal habito       | Nota | 
+|--------------|-----:
+| No mirar el celular mientras como        |  Vamos bien |
+| LLegar tarde        |   En proceso    |
+| Dormir en la tarde | En proceso |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👇 Quieres contactarme? 
+- [Mi baul de codigos]([URL](https://github.com/CattCloud))
+- [Mi LinkedIn](URL)	
