@@ -1,4 +1,4 @@
-#Hi , I am **Erick** 🖐
+# Hi , I am **Erick** 🖐
 
 
 ![catcloud](https://github.com/user-attachments/assets/67ac2f9f-43ce-4a26-be08-62599e5e7826)
@@ -24,5 +24,5 @@
 | Dormir en la tarde | En proceso |
 
 ## 👇 Quieres contactarme? 
-- [Mi baul de codigos]([URL](https://github.com/CattCloud))
+- [Mi baul de codigos](https://github.com/CattCloud)
 - [Mi LinkedIn](URL)	
