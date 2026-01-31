@@ -5,10 +5,11 @@
 
 
 ## 🌟 Sobre mí
-- 🎓 Estudiante de **Ingeniería de Sistemas**
+- 🎓 Egresado de **Ingeniería de Sistemas** de la UNMSM
 - 🎥 Mi película favorita es **Wall-E** (un robot tiene más suerte en el amor que yo 🤖💔)
 - 🎶 Me encantan las **rolas clásicas , lofi y el rock en inglés**
-- 💻 Actualmente aprendiendo **Desarrollo Web**
+- 💻 **Desarrollador Full Stack**
+- 🤖 Apasionado por la IA
 - 🦜 Tengo un loro llamado Antonia o Toni *(nota: no se si es hembra o macho)*
 - ✝️ Soy un seguidor de Cristo *(Lucas 9:23)*
 
